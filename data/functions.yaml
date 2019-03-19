@@ -1,0 +1,54 @@
+29: Attenuator
+16: Blind Panel
+36: Clock Generator
+42: Clock Modulator
+56: Comparator
+38: Controller
+15: CV Modulation
+13: Delay
+12: Digital
+32: Distortion
+25: Drum
+07: Dual/Stereo
+53: Dynamics
+20: Effect
+28: Envelope Follower
+04: Envelope Generator
+40: Equalizer
+50: Expander
+70: Expression
+18: External
+02: Filter
+24: Frequency Divider
+39: Function Generator
+03: LFO
+37: Logic
+43: Low Pass Gate
+10: MIDI
+06: Mixer
+14: Multiple
+26: Noise
+05: Oscillator
+22: Panning
+21: Phase Shifter
+44: Pitch Shifter 
+47: Polarizer
+45: Power
+54: PreAmp
+31: Quad
+35: Quantizer
+27: Random
+55: Reverb
+19: Ring Modulator
+33: Sample and Hold
+23: Sampling
+11: Sequencer
+30: Slew Limiter
+34: Switch
+49: Synth Voice
+52: Tube
+64: Tuner
+46: Utility
+01: VCA
+48: Video
+17: Waveshaper

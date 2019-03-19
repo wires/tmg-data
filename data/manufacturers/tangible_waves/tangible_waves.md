@@ -1,0 +1,1 @@
+Tangible waves was founded in connection with a Kickstarter project to bring the AE modular system from a private fun project (which it started as) to a commercial product.
